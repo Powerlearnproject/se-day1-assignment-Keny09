@@ -6,15 +6,26 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software Engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+1.The establishment of software engineering as a discipline in the 1960s
+2.The advent of structured programming in the 1970s
+3.The rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+The Software Development Life Cycle (SDLC) consists of several phases:
+  - Requirements: Gathering and documenting user needs and system requirements.
+  - Design: Creating high-level and detailed designs of the software architecture and user interface.
+  - Implementation: Writing code and building the software according to the design specifications.
+  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+  - Deployment: Releasing the software to users or customers.
+  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+The Waterfall methodology has a sequential approach with distinct phases flowing downwards like a waterfall while the agile methodology is iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -35,3 +46,5 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt: How is an egg made
+improved propmpt: Provide the detailed instructions on how to make scrambled eggs
